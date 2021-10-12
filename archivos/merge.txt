@@ -1,1 +1,1 @@
-Se creo un nuevo archivo “merge.txt” en la carpeta “archivos” 
+Se creo un nuevo archivo “merge.txt” en la carpeta “archivos” mi computador no identifico los cambios hechos desde el repositorio en la web. 
