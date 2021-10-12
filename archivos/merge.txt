@@ -1,0 +1,3 @@
+nombre: Juan José Monsalve Marín 
+edad: 27 
+aspiraciones con la materia: Sacarle el mayor provecho posible y ganarla.
