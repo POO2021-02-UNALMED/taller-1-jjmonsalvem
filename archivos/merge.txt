@@ -1,3 +1,9 @@
 nombre: Juan José Monsalve Marín
 edad: 27
 aspiraciones con la materia: Sacarle mucho provecho y ganarla.
+
+¿Por qué ahora si puedo crear un commit y subir la carpeta?
+Porque la carpeta ya no esta vacía.
+
+¿Por qué es importante tener cuidado con modificar dos archivos al mismo tiempo?
+Para no tener conflictos entre el repositorio web y la copia del repositorio del computador.
